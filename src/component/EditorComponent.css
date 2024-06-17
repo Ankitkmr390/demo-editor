@@ -1,0 +1,33 @@
+.editor-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .editor-container h1 {
+    text-align: center;
+  }
+  
+  .editor-container button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .editor-container button:hover {
+    background-color: #0056b3;
+  }
+  
+  .editor {
+    border: 1px solid #ccc;
+    min-height: 400px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
